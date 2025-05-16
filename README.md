@@ -10,10 +10,13 @@ A simple Python script that checks internet and DNS connectivity, shows IP confi
 - 🌐 Show IP Configuration (`ipconfig`)
 - 📡 Ping local router (gateway)
 - 🌍 Fetch public IP address
+![Project Output](output.png)
 
 ## How to Run:
 1. Install required packages:
 ```bash
 pip install requests
+
+
 
 
