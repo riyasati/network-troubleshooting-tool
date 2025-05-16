@@ -16,4 +16,4 @@ A simple Python script that checks internet and DNS connectivity, shows IP confi
 ```bash
 pip install requests
 
-![image](https://github.com/user-attachments/assets/53f7a167-a72a-4ef5-9042-df6a57b44202)
+
